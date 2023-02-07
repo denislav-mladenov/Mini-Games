@@ -1,5 +1,6 @@
 # Mini-Games
-This repo contains simple mini games.
+<h2 align="center"><i>This repo contains simple mini games.</i></h4>
+
 
 The first mini-game in the list is Rock-Paper-Scissors. The rules are simple:<br>
 "Rock vs Paper -> Paper wins!<br>
